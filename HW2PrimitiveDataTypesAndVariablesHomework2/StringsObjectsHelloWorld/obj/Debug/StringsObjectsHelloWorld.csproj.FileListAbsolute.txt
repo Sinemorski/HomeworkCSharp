@@ -1,0 +1,6 @@
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\StringsObjectsHelloWorld\bin\Debug\StringsObjectsHelloWorld.exe.config
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\StringsObjectsHelloWorld\bin\Debug\StringsObjectsHelloWorld.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\StringsObjectsHelloWorld\bin\Debug\StringsObjectsHelloWorld.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\StringsObjectsHelloWorld\obj\Debug\StringsObjectsHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\StringsObjectsHelloWorld\obj\Debug\StringsObjectsHelloWorld.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\StringsObjectsHelloWorld\obj\Debug\StringsObjectsHelloWorld.pdb

@@ -1,0 +1,6 @@
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\PrintASCIITable\bin\Debug\PrintASCIITable.exe.config
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\PrintASCIITable\bin\Debug\PrintASCIITable.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\PrintASCIITable\bin\Debug\PrintASCIITable.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\PrintASCIITable\obj\Debug\PrintASCIITable.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\PrintASCIITable\obj\Debug\PrintASCIITable.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\PrintASCIITable\obj\Debug\PrintASCIITable.csprojResolveAssemblyReference.cache

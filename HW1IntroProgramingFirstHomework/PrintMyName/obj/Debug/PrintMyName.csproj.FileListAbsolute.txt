@@ -1,0 +1,5 @@
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\PrintMyName\obj\Debug\PrintMyName.pdb

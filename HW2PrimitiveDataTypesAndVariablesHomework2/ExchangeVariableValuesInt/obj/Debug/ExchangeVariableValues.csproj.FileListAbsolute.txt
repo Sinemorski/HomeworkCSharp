@@ -1,0 +1,5 @@
+C:\Users\Home\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\ExchangeVariableValuesInt\bin\Debug\ExchangeVariableValuesInt.exe.config
+C:\Users\Home\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\ExchangeVariableValuesInt\bin\Debug\ExchangeVariableValuesInt.exe
+C:\Users\Home\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\ExchangeVariableValuesInt\bin\Debug\ExchangeVariableValuesInt.pdb
+C:\Users\Home\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\ExchangeVariableValuesInt\obj\Debug\ExchangeVariableValuesInt.exe
+C:\Users\Home\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\ExchangeVariableValuesInt\obj\Debug\ExchangeVariableValuesInt.pdb

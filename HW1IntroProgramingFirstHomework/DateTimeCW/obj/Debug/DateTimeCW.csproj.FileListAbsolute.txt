@@ -1,0 +1,6 @@
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\DateTimeCW\bin\Debug\DateTimeCW.exe.config
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\DateTimeCW\bin\Debug\DateTimeCW.exe
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\DateTimeCW\bin\Debug\DateTimeCW.pdb
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\DateTimeCW\obj\Debug\DateTimeCW.csprojResolveAssemblyReference.cache
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\DateTimeCW\obj\Debug\DateTimeCW.exe
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\DateTimeCW\obj\Debug\DateTimeCW.pdb

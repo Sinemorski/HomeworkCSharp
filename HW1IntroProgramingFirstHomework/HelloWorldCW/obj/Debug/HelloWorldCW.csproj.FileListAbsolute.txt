@@ -1,0 +1,6 @@
+c:\users\home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\HelloWorldCW\bin\Debug\HelloWorldCW.exe.config
+c:\users\home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\HelloWorldCW\bin\Debug\HelloWorldCW.exe
+c:\users\home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\HelloWorldCW\bin\Debug\HelloWorldCW.pdb
+c:\users\home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\HelloWorldCW\obj\Debug\HelloWorldCW.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\HelloWorldCW\obj\Debug\HelloWorldCW.exe
+c:\users\home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\HelloWorldCW\obj\Debug\HelloWorldCW.pdb

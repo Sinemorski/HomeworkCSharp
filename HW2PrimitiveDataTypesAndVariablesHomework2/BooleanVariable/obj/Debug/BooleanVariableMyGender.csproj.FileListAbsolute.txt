@@ -1,0 +1,6 @@
+C:\Users\Home\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\Home\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Users\Home\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\BooleanVariable\bin\Debug\BooleanVariable.pdb
+C:\Users\Home\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\BooleanVariable\obj\Debug\BooleanVariableMyGender.csprojResolveAssemblyReference.cache
+C:\Users\Home\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\Home\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\BooleanVariable\obj\Debug\BooleanVariable.pdb

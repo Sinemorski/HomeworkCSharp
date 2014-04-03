@@ -1,0 +1,6 @@
+c:\users\home\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe.config
+c:\users\home\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe
+c:\users\home\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\HexadecimalFormat\bin\Debug\HexadecimalFormat.pdb
+c:\users\home\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\HexadecimalFormat\obj\Debug\HexadecimalFormat.exe
+c:\users\home\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\HexadecimalFormat\obj\Debug\HexadecimalFormat.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework2\HexadecimalFormat\obj\Debug\HexadecimalFormat.csprojResolveAssemblyReference.cache

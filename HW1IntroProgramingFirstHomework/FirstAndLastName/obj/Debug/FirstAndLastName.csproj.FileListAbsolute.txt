@@ -1,0 +1,6 @@
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\FirstAndLastName\bin\Debug\FirstAndLastName.exe.config
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\FirstAndLastName\bin\Debug\FirstAndLastName.exe
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\FirstAndLastName\bin\Debug\FirstAndLastName.pdb
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\FirstAndLastName\obj\Debug\FirstAndLastName.exe
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\FirstAndLastName\obj\Debug\FirstAndLastName.pdb
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\FirstAndLastName\obj\Debug\FirstAndLastName.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\DateAndTime\bin\Debug\DateAndTime.exe.config
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\DateAndTime\bin\Debug\DateAndTime.exe
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\DateAndTime\bin\Debug\DateAndTime.pdb
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\DateAndTime\obj\Debug\DateAndTime.csprojResolveAssemblyReference.cache
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\DateAndTime\obj\Debug\DateAndTime.exe
+C:\Users\Home\documents\visual studio 2013\Projects\IntroProgramingFirstHomework\DateAndTime\obj\Debug\DateAndTime.pdb
