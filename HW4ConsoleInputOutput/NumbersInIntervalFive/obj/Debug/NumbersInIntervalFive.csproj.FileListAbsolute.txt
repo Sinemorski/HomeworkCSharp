@@ -1,0 +1,6 @@
+c:\users\mitko\documents\visual studio 2013\Projects\ConsoleInputOutput\NumbersInIntervalFive\bin\Debug\NumbersInIntervalFive.exe.config
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\NumbersInIntervalFive\bin\Debug\NumbersInIntervalFive.exe
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\NumbersInIntervalFive\bin\Debug\NumbersInIntervalFive.pdb
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\NumbersInIntervalFive\obj\Debug\NumbersInIntervalFive.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\NumbersInIntervalFive\obj\Debug\NumbersInIntervalFive.exe
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\NumbersInIntervalFive\obj\Debug\NumbersInIntervalFive.pdb

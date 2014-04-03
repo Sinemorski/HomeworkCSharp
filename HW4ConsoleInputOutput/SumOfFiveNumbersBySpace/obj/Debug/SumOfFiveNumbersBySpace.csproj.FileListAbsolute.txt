@@ -1,0 +1,6 @@
+c:\users\mitko\documents\visual studio 2013\Projects\ConsoleInputOutput\SumOfFiveNumbersBySpace\bin\Debug\SumOfFiveNumbersBySpace.exe.config
+c:\users\mitko\documents\visual studio 2013\Projects\ConsoleInputOutput\SumOfFiveNumbersBySpace\bin\Debug\SumOfFiveNumbersBySpace.exe
+c:\users\mitko\documents\visual studio 2013\Projects\ConsoleInputOutput\SumOfFiveNumbersBySpace\bin\Debug\SumOfFiveNumbersBySpace.pdb
+c:\users\mitko\documents\visual studio 2013\Projects\ConsoleInputOutput\SumOfFiveNumbersBySpace\obj\Debug\SumOfFiveNumbersBySpace.exe
+c:\users\mitko\documents\visual studio 2013\Projects\ConsoleInputOutput\SumOfFiveNumbersBySpace\obj\Debug\SumOfFiveNumbersBySpace.pdb
+c:\users\mitko\documents\visual studio 2013\Projects\ConsoleInputOutput\SumOfFiveNumbersBySpace\obj\Debug\SumOfFiveNumbersBySpace.csprojResolveAssemblyReference.cache
