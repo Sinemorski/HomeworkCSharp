@@ -1,6 +1,0 @@
-C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\BitsExchange\bin\Debug\BitsExchange.exe.config
-C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\BitsExchange\bin\Debug\BitsExchange.exe
-C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\BitsExchange\bin\Debug\BitsExchange.pdb
-C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\BitsExchange\obj\Debug\BitsExchange.csprojResolveAssemblyReference.cache
-C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\BitsExchange\obj\Debug\BitsExchange.exe
-C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\BitsExchange\obj\Debug\BitsExchange.pdb
