@@ -1,0 +1,5 @@
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\TheBiggestOfThreeNumbers\bin\Debug\TheBiggestOfThreeNumbers.exe.config
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\TheBiggestOfThreeNumbers\bin\Debug\TheBiggestOfThreeNumbers.exe
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\TheBiggestOfThreeNumbers\bin\Debug\TheBiggestOfThreeNumbers.pdb
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\TheBiggestOfThreeNumbers\obj\Debug\TheBiggestOfThreeNumbers.exe
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\TheBiggestOfThreeNumbers\obj\Debug\TheBiggestOfThreeNumbers.pdb

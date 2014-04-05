@@ -1,0 +1,6 @@
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\BeerTime\bin\Debug\BeerTime.exe.config
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\ConditionalStatements\BeerTime\bin\Debug\BeerTime.exe
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\ConditionalStatements\BeerTime\bin\Debug\BeerTime.pdb
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\ConditionalStatements\BeerTime\obj\Debug\BeerTime.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\ConditionalStatements\BeerTime\obj\Debug\BeerTime.exe
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\ConditionalStatements\BeerTime\obj\Debug\BeerTime.pdb

@@ -1,0 +1,5 @@
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.exe
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.pdb
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.exe
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.pdb

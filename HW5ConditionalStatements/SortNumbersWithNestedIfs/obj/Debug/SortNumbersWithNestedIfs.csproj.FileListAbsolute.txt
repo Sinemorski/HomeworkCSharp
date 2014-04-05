@@ -1,0 +1,6 @@
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\SortNumbersWithNestedIfs\bin\Debug\SortNumbersWithNestedIfs.exe.config
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\SortNumbersWithNestedIfs\bin\Debug\SortNumbersWithNestedIfs.exe
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\SortNumbersWithNestedIfs\bin\Debug\SortNumbersWithNestedIfs.pdb
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\SortNumbersWithNestedIfs\obj\Debug\SortNumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\SortNumbersWithNestedIfs\obj\Debug\SortNumbersWithNestedIfs.exe
+c:\users\mitko\documents\visual studio 2013\Projects\ConditionalStatements\SortNumbersWithNestedIfs\obj\Debug\SortNumbersWithNestedIfs.pdb
