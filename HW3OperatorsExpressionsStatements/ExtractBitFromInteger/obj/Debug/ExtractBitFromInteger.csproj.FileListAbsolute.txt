@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.pdb
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb

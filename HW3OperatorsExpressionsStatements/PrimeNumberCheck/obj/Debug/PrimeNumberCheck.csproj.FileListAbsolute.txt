@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb

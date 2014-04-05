@@ -1,0 +1,6 @@
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\DivideBySevenAndFive\bin\Debug\DivideBySevenAndFive.exe.config
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\DivideBySevenAndFive\bin\Debug\DivideBySevenAndFive.exe
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\DivideBySevenAndFive\bin\Debug\DivideBySevenAndFive.pdb
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\DivideBySevenAndFive\obj\Debug\DivideBySevenAndFive.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\DivideBySevenAndFive\obj\Debug\DivideBySevenAndFive.exe
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\DivideBySevenAndFive\obj\Debug\DivideBySevenAndFive.pdb

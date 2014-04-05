@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ModifyBitPosition\bin\Debug\ModifyBitPosition.exe.config
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ModifyBitPosition\bin\Debug\ModifyBitPosition.exe
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ModifyBitPosition\bin\Debug\ModifyBitPosition.pdb
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ModifyBitPosition\obj\Debug\ModifyBitPosition.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ModifyBitPosition\obj\Debug\ModifyBitPosition.exe
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ModifyBitPosition\obj\Debug\ModifyBitPosition.pdb

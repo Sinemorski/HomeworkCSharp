@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ExtractThirdBit\bin\Debug\ExtractThirdBit.exe.config
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ExtractThirdBit\bin\Debug\ExtractThirdBit.exe
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ExtractThirdBit\bin\Debug\ExtractThirdBit.pdb
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ExtractThirdBit\obj\Debug\ExtractThirdBit.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ExtractThirdBit\obj\Debug\ExtractThirdBit.exe
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\ExtractThirdBit\obj\Debug\ExtractThirdBit.pdb

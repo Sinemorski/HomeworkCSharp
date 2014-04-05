@@ -1,0 +1,5 @@
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.pdb
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb

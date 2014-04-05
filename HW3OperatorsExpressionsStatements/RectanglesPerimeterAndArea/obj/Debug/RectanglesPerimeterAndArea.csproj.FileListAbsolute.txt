@@ -1,0 +1,6 @@
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\RectanglesPerimeterAndArea\bin\Debug\RectanglesPerimeterAndArea.exe.config
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\RectanglesPerimeterAndArea\bin\Debug\RectanglesPerimeterAndArea.exe
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\RectanglesPerimeterAndArea\bin\Debug\RectanglesPerimeterAndArea.pdb
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\RectanglesPerimeterAndArea\obj\Debug\RectanglesPerimeterAndArea.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\RectanglesPerimeterAndArea\obj\Debug\RectanglesPerimeterAndArea.exe
+C:\Users\Mitko\documents\visual studio 2013\Projects\OperatorsExpressionsStatementsHW3\RectanglesPerimeterAndArea\obj\Debug\RectanglesPerimeterAndArea.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\CheckBitAtPosition\bin\Debug\CheckBitAtPosition.exe.config
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\CheckBitAtPosition\bin\Debug\CheckBitAtPosition.exe
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\CheckBitAtPosition\bin\Debug\CheckBitAtPosition.pdb
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\CheckBitAtPosition\obj\Debug\CheckBitAtPosition.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\CheckBitAtPosition\obj\Debug\CheckBitAtPosition.exe
+C:\Users\Mitko\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatementsHW3\CheckBitAtPosition\obj\Debug\CheckBitAtPosition.pdb
