@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MultiplicationSign
+namespace NumberAsWords
 {
-    class MultiplicationSign
+    class NumberAsWords
     {
         static void Main(string[] args)
         {
@@ -27,7 +27,7 @@ namespace MultiplicationSign
             string[] zeroNineUpper = new string[10] { "Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine" };
             string[] tenNineteenUpper = new string[10] {"Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", 
                 "Seventeen", "Eighteen", "Nineteen"};
-            string[] lastZeroUpper = new string[10] { "Zero", "Ten", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety" };
+            string[] lastZeroUpper = new string[10] { "zero", "Ten", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety" };
             if (number < 10)
             {
                 Console.WriteLine(zeroNineUpper[number]);
@@ -62,6 +62,11 @@ namespace MultiplicationSign
                 {
                     Console.WriteLine(zeroNineUpper[number / 100] + " hundred and " + zeroNine[number % 10]);
                 }
+                else if ((number - ((number / 100) * 100)) % 10 == 0)
+                {
+                    Console.WriteLine(zeroNineUpper[number / 100] + " hundred and " + lastZero[(number / 10) % 10]);
+                }
+
                 else
                 {
                     Console.WriteLine(zeroNineUpper[number / 100] + " hundred and " + lastZero[(number / 10) % 10]+ " " + zeroNine[number % 10]);
